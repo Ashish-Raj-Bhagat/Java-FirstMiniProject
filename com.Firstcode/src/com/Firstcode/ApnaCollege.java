@@ -209,15 +209,7 @@ public class Practice {
 				
 				System.out.print("My Number Was: ");
 				print(MyNumber);
-				
-		
-		
-		
-		
-		
-		
-		
-		
+						
 	}
 
 }
